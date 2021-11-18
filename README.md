@@ -15,7 +15,7 @@ This project can be divided in two parts:
 2) Model selection, training and evaluation
 
 ### First part of the project
-[Link]() to the folder of .ipynb files.  
+[Link](https://github.com/amanteur/MLDM_KaggleProject/Part1) to the folder of .ipynb files.  
 Here each member describes what they've done during first half of the project:
 - Amantur:
   - Something1
