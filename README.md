@@ -6,7 +6,7 @@ Here you can find the description of the project.
 - Group's participants: 
   - [Amantur Amatov](https://github.com/amanteur)
   - [Irina Yuryeva](https://github.com/upayuryeva) 
-  - [Edgar Zakharyan]()
+  - [Edgar Zakharyan](https://github.com/edgar2597)
 - **Disclaimer:** All code is presented in Jupyter Notebooks. Each member did his/her own work, which **may** intersects with other works of group's members.
 
 --------
