@@ -42,9 +42,9 @@ Here each member describes what they've done during first half of the project:
   - Getting rid of NAN values <br>
     There was some nan values for year, language, country, genres features. To get rid of them but not lose some important information by just making them "UNKNOWN" I found the most popular values of those features for every artist and fill nans for every artists with them. Other features in all data I just make "UNKNOWN".
 - Edgar:
-  - Something1
-  - Something2
-  - etc
+  Did the EDA of given datasets. Visualized distributions of some core user features, like gender, age and registrations time. Merged and splited all datasets into training, validation and testing ones.
+  Also did some feature engineering and transformed them to make them more valuable for fiting. I did a transformation of date varibles (expiration date, registration_init_time, membership_days), since they were presented not in date formats. I changed there formats into datetime %Y%m%d. And then 
+  I extracted year, month and day data as a separate columns from both registration_init_time and expiration_date.
 
 -------
 Here will be written the vision of the project's next phase:
