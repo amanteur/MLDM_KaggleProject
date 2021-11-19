@@ -48,9 +48,10 @@ Here each member describes what they've done during first half of the project:
 
 -------
 Here will be written the vision of the project's next phase:
-- Something1
-- Something2
-- etc
+- Create one structured notebook where all of the best parts of expanatory analysis of group members' notebooks will be written.
+- Create one structured notebook where all of the best parts of feature extraction of group members' notebooks will be written.
+- Create a notebook for model selection and evaluation.
+- Create a presentation based on our work.
 
 ### Second part of the project
 Here each member describes what they've done during second half of the project:
